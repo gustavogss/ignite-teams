@@ -1,4 +1,5 @@
-import { Home } from "./src/screens/home";
+import { Home } from "@screens/home";
+
 
 export default function App() {
   return (
