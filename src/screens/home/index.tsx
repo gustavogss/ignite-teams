@@ -1,10 +1,9 @@
-import { Text, View } from "react-native";
-import { styles } from './styles';
+import { Container, Title } from "./styles";
 
 export function Home() {
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Gropus</Text>
-    </View>
+    <Container>
+      <Title >Gropus</Title>
+    </Container>
   )
 }
