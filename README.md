@@ -12,7 +12,9 @@
 - [Expo](https://expo.dev/)
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [Styled Components](https://styled-components.com/docs)
+- [Babel Config Resolver Plugin](https://github.com/tleunen/babel-plugin-module-resolver/blob/master/DOCS.md)
+- [Expo Google Fonts](https://docs.expo.dev/develop/user-interface/fonts/)
 
-## Deploy :medal:
+## Deploy :trophy:
 
-- [Clique Aqui](#)
+- [Clique Aqui]()
