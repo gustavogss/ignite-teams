@@ -1,9 +1,10 @@
-import { Container, Title } from './styles'
+import { Header } from '@components/header'
+import { Container } from './styles'
 
 export function Home() {
   return (
     <Container>
-      <Title>Home</Title>
+      <Header />
     </Container>
   )
 }
