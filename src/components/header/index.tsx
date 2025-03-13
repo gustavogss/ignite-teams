@@ -1,11 +1,11 @@
 import { Container, Logo, BackIcon, BackButton } from './styles'
 import logo from '@assets/logo.png'
 
-type Props = {
+type HeaderProps = {
   showBackButton?: boolean
 }
 
-export function Header({ showBackButton = false }: Props) {
+export function Header({ showBackButton = false }: HeaderProps) {
   return (
     <Container>
       {showBackButton && (
